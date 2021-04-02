@@ -1,0 +1,80 @@
+
+body{
+  /* padding-top:80px; */
+  word-wrap:break-word;
+  
+
+}
+
+.container {
+  background-color:rgb(30,78,156);
+  height: 750px;
+  width: 100%;
+}
+
+.moneyGif {
+  text-align: center;
+}
+
+.jumbotron-text-center {
+  /* background: url(img/table.png)
+  no-repeat ; 
+  background-size: cover; */
+  background-color: rgb(189,76,179);
+  /* border: 3px solid white; */
+  height: 460px;
+
+   /* background:violet;
+ */
+}
+
+img{
+  height: 250px;
+}
+
+h1{
+  text-align: center;
+  color:rgb(30,78,156);
+  font-size: 5rem;
+}
+
+/* button {
+  background-image: url(img/table.png) 
+  width: 500px;
+  height: 550px;
+
+} */
+
+.gameBoard {
+  float: left;
+  height: 350px;
+  width: 50%;
+  /* border: 1px solid red; */
+  text-align: center;
+}
+
+.lastGamePlayed {
+  float: right;
+  height: 350px;
+  width: 50%;
+  /* border: 1px solid greenyellow; */
+  text-align: center;
+  color: rgb(30,78,156);
+}
+#submitBet {
+  /* border: 2px solid red; */
+  width: 55%;
+  height: 300px;
+  padding-top: 5px;
+}
+
+.haydenLogin {
+  padding-top: 40px;
+  text-align: right;
+  color:rgb(230, 230, 230);
+  font-size: 1.8rem;
+}
+
+.bettingAmount {
+  color: aliceblue;
+}
